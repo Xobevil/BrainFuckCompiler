@@ -1,7 +1,7 @@
 /*
 **	Autor : Sylvain "Xob" Garant
 **
-**	BrainFuck Compiler, dirty code
+**	BrainFuck Interpreter
 */
 
 #include <stdlib.h>
